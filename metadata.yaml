@@ -1,5 +1,5 @@
 _repo: Widger-s-Quotations-from-Project-Gutenberg-Edition-of-Memoirs-of-Napoleon_3729
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -31,5 +31,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PQ'
 - !lcsh 'Quotations'
+- GITenberg
 title: Widger's Quotations from Project Gutenberg Edition of Memoirs of Napoleon
 url: http://www.gutenberg.org/ebooks/3729
